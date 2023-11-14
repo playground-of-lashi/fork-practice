@@ -1,5 +1,5 @@
 function dumbFunction(){
-    console.log("don't do something");
-}
+    console.log("don't do something xxx");
+} 
 
 dumbFunction();
