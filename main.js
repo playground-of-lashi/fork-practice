@@ -1,1 +1,5 @@
-console.log("working");
+function dumbFunction(){
+    console.log("do something");
+}
+
+dumbFunction();
